@@ -19,6 +19,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thyravikant/leetcode-solns/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/thyravikant/leetcode-solns/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
