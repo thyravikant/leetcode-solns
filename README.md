@@ -6,6 +6,7 @@ codes of the problems i tried in leetcode
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -30,4 +31,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thyravikant/leetcode-solns/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
