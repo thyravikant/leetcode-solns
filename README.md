@@ -7,6 +7,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -27,6 +28,7 @@ codes of the problems i tried in leetcode
 | [0002-add-two-numbers](https://github.com/thyravikant/leetcode-solns/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thyravikant/leetcode-solns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thyravikant/leetcode-solns/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -35,4 +37,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
