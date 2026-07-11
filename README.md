@@ -8,6 +8,7 @@ codes of the problems i tried in leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -41,4 +42,9 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
