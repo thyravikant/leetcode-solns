@@ -30,6 +30,7 @@ codes of the problems i tried in leetcode
 | [0007-reverse-integer](https://github.com/thyravikant/leetcode-solns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thyravikant/leetcode-solns/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -47,4 +48,12 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
