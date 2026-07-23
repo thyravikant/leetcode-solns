@@ -6,6 +6,7 @@ codes of the problems i tried in leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
@@ -61,4 +62,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thyravikant/leetcode-solns/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
