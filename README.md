@@ -18,6 +18,7 @@ codes of the problems i tried in leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 ## Linked List
 |  |
@@ -31,6 +32,7 @@ codes of the problems i tried in leetcode
 | [0007-reverse-integer](https://github.com/thyravikant/leetcode-solns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thyravikant/leetcode-solns/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thyravikant/leetcode-solns/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -50,6 +52,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +69,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
