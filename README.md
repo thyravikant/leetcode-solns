@@ -80,4 +80,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/thyravikant/leetcode-solns/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
