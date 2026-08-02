@@ -11,6 +11,7 @@ codes of the problems i tried in leetcode
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
+| [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,6 +35,7 @@ codes of the problems i tried in leetcode
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thyravikant/leetcode-solns/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -57,6 +59,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -73,4 +76,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
