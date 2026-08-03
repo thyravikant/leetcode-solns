@@ -36,12 +36,14 @@ codes of the problems i tried in leetcode
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/thyravikant/leetcode-solns/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thyravikant/leetcode-solns/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thyravikant/leetcode-solns/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/thyravikant/leetcode-solns/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,11 +62,13 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/thyravikant/leetcode-solns/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/thyravikant/leetcode-solns/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
