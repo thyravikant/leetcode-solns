@@ -79,10 +79,12 @@ codes of the problems i tried in leetcode
 | ------- |
 | [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 ## Game Theory
 |  |
 | ------- |
@@ -95,6 +97,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
