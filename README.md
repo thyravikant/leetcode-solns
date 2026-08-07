@@ -11,6 +11,7 @@ codes of the problems i tried in leetcode
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 ## Backtracking
@@ -77,6 +78,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ codes of the problems i tried in leetcode
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
