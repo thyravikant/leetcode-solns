@@ -9,6 +9,7 @@ codes of the problems i tried in leetcode
 | [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
@@ -78,11 +79,13 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/thyravikant/leetcode-solns/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 ## Game Theory
@@ -96,6 +99,7 @@ codes of the problems i tried in leetcode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
