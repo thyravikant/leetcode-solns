@@ -13,6 +13,7 @@ codes of the problems i tried in leetcode
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/thyravikant/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
@@ -127,4 +128,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/thyravikant/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
