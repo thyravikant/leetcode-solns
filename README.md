@@ -13,6 +13,7 @@ codes of the problems i tried in leetcode
 | [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/thyravikant/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thyravikant/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@ codes of the problems i tried in leetcode
 | [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/thyravikant/leetcode-solns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/thyravikant/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
@@ -135,4 +137,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thyravikant/leetcode-solns/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thyravikant/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
