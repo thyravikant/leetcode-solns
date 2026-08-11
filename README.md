@@ -22,6 +22,7 @@ codes of the problems i tried in leetcode
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thyravikant/leetcode-solns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +98,7 @@ codes of the problems i tried in leetcode
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thyravikant/leetcode-solns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ codes of the problems i tried in leetcode
 | [0242-valid-anagram](https://github.com/thyravikant/leetcode-solns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thyravikant/leetcode-solns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
