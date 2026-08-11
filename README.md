@@ -14,6 +14,7 @@ codes of the problems i tried in leetcode
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/thyravikant/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thyravikant/leetcode-solns/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
@@ -55,6 +56,7 @@ codes of the problems i tried in leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/thyravikant/leetcode-solns/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +145,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thyravikant/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
