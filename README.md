@@ -7,6 +7,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thyravikant/leetcode-solns/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/thyravikant/leetcode-solns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thyravikant/leetcode-solns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/thyravikant/leetcode-solns/tree/master/0036-valid-sudoku) |
@@ -55,6 +56,7 @@ codes of the problems i tried in leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/thyravikant/leetcode-solns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thyravikant/leetcode-solns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/thyravikant/leetcode-solns/tree/master/0125-valid-palindrome) |
@@ -152,4 +154,8 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/thyravikant/leetcode-solns/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
