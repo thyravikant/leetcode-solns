@@ -11,6 +11,7 @@ codes of the problems i tried in leetcode
 | [0015-3sum](https://github.com/thyravikant/leetcode-solns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/thyravikant/leetcode-solns/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
@@ -60,6 +61,7 @@ codes of the problems i tried in leetcode
 | [0011-container-with-most-water](https://github.com/thyravikant/leetcode-solns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thyravikant/leetcode-solns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thyravikant/leetcode-solns/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/thyravikant/leetcode-solns/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
@@ -76,6 +78,7 @@ codes of the problems i tried in leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/thyravikant/leetcode-solns/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
@@ -161,4 +164,12 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thyravikant/leetcode-solns/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
