@@ -15,6 +15,7 @@ codes of the problems i tried in leetcode
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/thyravikant/leetcode-solns/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@ codes of the problems i tried in leetcode
 | [0036-valid-sudoku](https://github.com/thyravikant/leetcode-solns/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ codes of the problems i tried in leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/thyravikant/leetcode-solns/tree/master/0704-binary-search) |
 ## Greedy
