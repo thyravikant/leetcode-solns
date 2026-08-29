@@ -24,6 +24,7 @@ codes of the problems i tried in leetcode
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/thyravikant/leetcode-solns/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/thyravikant/leetcode-solns/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/thyravikant/leetcode-solns/tree/master/0877-stone-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thyravikant/leetcode-solns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
@@ -165,6 +166,7 @@ codes of the problems i tried in leetcode
 | [0074-search-a-2d-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/thyravikant/leetcode-solns/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/thyravikant/leetcode-solns/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
