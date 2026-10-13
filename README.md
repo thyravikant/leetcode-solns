@@ -23,6 +23,7 @@ codes of the problems i tried in leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/thyravikant/leetcode-solns/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thyravikant/leetcode-solns/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/thyravikant/leetcode-solns/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/thyravikant/leetcode-solns/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/thyravikant/leetcode-solns/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ codes of the problems i tried in leetcode
 | [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/thyravikant/leetcode-solns/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thyravikant/leetcode-solns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/thyravikant/leetcode-solns/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
 | ------- |
