@@ -15,6 +15,7 @@ codes of the problems i tried in leetcode
 | [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/thyravikant/leetcode-solns/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thyravikant/leetcode-solns/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/thyravikant/leetcode-solns/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/thyravikant/leetcode-solns/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/thyravikant/leetcode-solns/tree/master/0078-subsets) |
@@ -88,6 +89,7 @@ codes of the problems i tried in leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thyravikant/leetcode-solns/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/thyravikant/leetcode-solns/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/thyravikant/leetcode-solns/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thyravikant/leetcode-solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/thyravikant/leetcode-solns/tree/master/0509-fibonacci-number) |
@@ -147,6 +149,7 @@ codes of the problems i tried in leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/thyravikant/leetcode-solns/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/thyravikant/leetcode-solns/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
